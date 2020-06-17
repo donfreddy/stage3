@@ -1,0 +1,29 @@
+{
+  "1": {
+    "name": "Max",
+    "email": "max@email.com",
+    "phoneNumbers": [
+      "6 90 00 00 00",
+      "6 70 00 00 00"
+    ],
+    "id": 1
+  },
+  "2": {
+    "name": "Fred",
+    "email": "fred@email.com",
+    "phoneNumbers": [
+      "6 90 00 00 00",
+      "6 70 00 00 00"
+    ],
+    "id": 2
+  },
+  "3": {
+    "name": "Rene",
+    "email": "rene@email.com",
+    "phoneNumbers": [
+      "6 90 00 00 00",
+      "6 70 00 00 00"
+    ],
+    "id": 3
+  }
+}

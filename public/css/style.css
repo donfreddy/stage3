@@ -1,0 +1,14 @@
+h1 {
+  margin-top: 80px;
+  text-align: center;
+  font-size: 80px;
+  color: white;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+footer {
+  margin-top: 150px;
+  color: white;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
